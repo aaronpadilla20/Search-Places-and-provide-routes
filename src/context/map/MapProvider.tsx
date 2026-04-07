@@ -128,7 +128,7 @@ export const MapProvider = ({ children }: PropsWithChildren) => {
                 'line-join': 'round'
             },
             paint: {
-                'line-color': 'white',
+                'line-color': 'red',
                 'line-width': 5
             }
         })
